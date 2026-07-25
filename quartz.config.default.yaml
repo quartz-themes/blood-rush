@@ -256,7 +256,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: blood-rush
+      theme: default
       variation: null
 layout:
   groups:
